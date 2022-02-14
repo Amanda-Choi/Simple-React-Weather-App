@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <h1>React Weather App</h1>
         <Weather />
-        <div class="source">
+        <footer>
           <a
-            href="https://github.com/Amanda-Choi/Amanda-Weather-App-Project"
+            href="https://github.com/Amanda-Choi/react-weather-app-part1"
             target="_blank"
           >
             Open-source code
           </a>
           by Amanda Choi
-        </div>
+        </footer>
       </header>
     </div>
   );
